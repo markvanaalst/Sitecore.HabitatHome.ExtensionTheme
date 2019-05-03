@@ -1,0 +1,74 @@
+<project>
+  <Metadata>
+    <metadata>
+      <PackageName>Static top menu - Extension Theme</PackageName>
+      <Author>Mark van Aalst</Author>
+      <Version>1.0</Version>
+      <Revision />
+      <License>MIT License
+
+Copyright (c) 2019 Mark van Aalst
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+      </License>
+      <Comment />
+      <Attributes />
+      <Readme>After installation make sure to:
+
+1. Assign the extension theme as a base template to your theme
+2. Provide the Id "header-navigation" for your header container using the component properties</Readme>
+      <Publisher>Sitecore Technical Marketing</Publisher>
+      <PostStep />
+      <PackageID />
+    </metadata>
+  </Metadata>
+  <SaveProject>True</SaveProject>
+  <Sources>
+    <xitems>
+      <Entries>
+        <x-item>/master/sitecore/media library/Extension Themes/Static top menu/{73A1DD4D-8616-4163-9903-9980A440347D}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Extension Themes/Static top menu/fonts/{59D85EB7-5EE1-4AAF-A1F0-0E42936720F1}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Extension Themes/Static top menu/images/{E95D10ED-2637-4E52-8782-A2E8E8B2750D}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Extension Themes/Static top menu/scripts/{213F91D7-0F94-4F1B-9ABB-0E7BA5A94464}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Extension Themes/Static top menu/scripts/optimized-min/{A1B05913-0E58-4E5B-B59E-A48529657CEC}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Extension Themes/Static top menu/scripts/static-top-menu/{C0E52785-217E-47F5-9483-2EAEFC877D7B}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Extension Themes/Static top menu/styles/{A3BC0BB6-C85D-4F16-B9D1-4C698DAC731B}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Extension Themes/Static top menu/styles/optimized-min/{A4F4A7C8-4E38-42EC-B1DA-D4491E0BB3A7}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Extension Themes/Static top menu/styles/static-top-menu/{6782C189-DD98-4043-ABF4-5E29773A6C63}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms />
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>static top menu</Name>
+    </xitems>
+  </Sources>
+  <Converter>
+    <TrivialConverter>
+      <Transforms />
+    </TrivialConverter>
+  </Converter>
+  <Include />
+  <Exclude />
+  <Name />
+</project>

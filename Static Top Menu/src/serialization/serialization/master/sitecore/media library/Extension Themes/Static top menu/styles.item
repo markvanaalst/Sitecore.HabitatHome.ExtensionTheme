@@ -1,0 +1,45 @@
+----item----
+version: 1
+id: {A3BC0BB6-C85D-4F16-B9D1-4C698DAC731B}
+database: master
+path: /sitecore/media library/Extension Themes/Static top menu/styles
+parent: {73A1DD4D-8616-4163-9903-9980A440347D}
+name: styles
+master: {FFD203C6-CB3E-4A27-9C05-4A9AEB121810}
+template: {FE5DD826-48C6-436D-B87A-7C4210C7413B}
+templatekey: Media folder
+created: 20190503T104850Z
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{26CC3A06-E08C-4EF1-980C-B1920BA22124}
+----version----
+language: en
+version: 1
+revision: 
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20190503T104850:636924773302833083Z
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190503T104850Z

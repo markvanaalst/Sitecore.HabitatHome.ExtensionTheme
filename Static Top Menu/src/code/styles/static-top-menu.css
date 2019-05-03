@@ -1,0 +1,30 @@
+.fixed-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    margin: 0;
+}
+    .fixed-header .navigation-main-horizontal {
+        margin: 0;
+    }
+        .fixed-header .navigation.navigation-main .rel-level1 {
+            float: left;
+            padding: 25px 10px
+        }
+        .fixed-header .navigation.navigation-main .rel-level1:hover,
+        .fixed-header .navigation.navigation-main .rel-level1.active {
+            background: #747474;
+        }
+            .fixed-header .navigation.navigation-main .rel-level1:hover a,
+            .fixed-header .navigation.navigation-main .rel-level1.active a {
+                color: #fff;
+                text-decoration: none;
+            }
+    .fixed-header .component.link,
+    .fixed-header .component.language-selector,
+    .fixed-header .component.search-box,
+    .fixed-header .megadrop-secondary-content {
+        display: none;
+    }
