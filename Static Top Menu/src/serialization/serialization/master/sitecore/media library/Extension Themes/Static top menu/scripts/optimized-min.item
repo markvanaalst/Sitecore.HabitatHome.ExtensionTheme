@@ -1,0 +1,226 @@
+----item----
+version: 1
+id: {3224607C-DC24-47B5-BC53-76B5E7180FB8}
+database: master
+path: /sitecore/media library/Extension Themes/Static top menu/scripts/optimized-min
+parent: {213F91D7-0F94-4F1B-9ABB-0E7BA5A94464}
+name: optimized-min
+master: {00000000-0000-0000-0000-000000000000}
+template: {B43AB8D5-E123-42DD-8042-DE869CC98C4F}
+templatekey: Optimized File
+created: 20190506T101803Z
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 1896
+
+WEEuY29tcG9uZW50LmhlYWRlcj1mdW5jdGlvbihuKXt2YXIgdD17fTtyZXR1cm4gdC5pbml0PWZ1
+bmN0aW9uKCl7bih3aW5kb3cpLnNjcm9sbChmdW5jdGlvbigpe24od2luZG93KS5zY3JvbGxUb3Ao
+KT49MT8obigiLnN0YXRpYy10b3AtbmF2IikuYWRkQ2xhc3MoImZpeGVkLWhlYWRlciIpLG4oIi5m
+aXhlZC1oZWFkZXIgLmhlYWRlci1jb250YWluZXItaW5uZXIgLmNvbXBvbmVudC5jb2x1bW4tc3Bs
+aXR0ZXIgLmNvbC14cy0zIikucmVtb3ZlQ2xhc3MoImNvbC14cy0zIikuYWRkQ2xhc3MoImNvbC14
+cy0yIiksbigiLmZpeGVkLWhlYWRlciAuaGVhZGVyLWNvbnRhaW5lci1pbm5lciAuY29tcG9uZW50
+LmNvbHVtbi1zcGxpdHRlciAuY29sLXhzLTkiKS5yZW1vdmVDbGFzcygiY29sLXhzLTkiKS5hZGRD
+bGFzcygiY29sLXhzLTEwIiksbigiLmZpeGVkLWhlYWRlciAucHJpbWFyeS1uYXYtY29udGFpbmVy
+IC5jb21wb25lbnQuY29udGFpbmVyLm1lZ2Fkcm9wIikucmVtb3ZlQ2xhc3MoIm1lZ2Fkcm9wIiks
+bigiLmZpeGVkLWhlYWRlciAucHJpbWFyeS1uYXYtY29udGFpbmVyIC5jb21wb25lbnQubmF2aWdh
+dGlvbi5uYXZpZ2F0aW9uLXRpdGxlIikucmVtb3ZlQ2xhc3MoIm1lZ2Fkcm9wLW5hdiIpLG4oIi5m
+aXhlZC1oZWFkZXIgLnByaW1hcnktbmF2LWNvbnRhaW5lciAuY29tcG9uZW50Lm5hdmlnYXRpb24u
+bmF2aWdhdGlvbi10aXRsZSIpLmFkZENsYXNzKCJuYXZpZ2F0aW9uLW1haW4gbmF2aWdhdGlvbi1t
+YWluLWhvcml6b250YWwiKSk6KG4oIi5zdGF0aWMtdG9wLW5hdiIpLnJlbW92ZUNsYXNzKCJmaXhl
+ZC1oZWFkZXIiKSxuKCIuaGVhZGVyLWNvbnRhaW5lci1pbm5lciAuY29tcG9uZW50LmNvbHVtbi1z
+cGxpdHRlciAuY29sLXhzLTIiKS5yZW1vdmVDbGFzcygiY29sLXhzLTIiKS5hZGRDbGFzcygiY29s
+LXhzLTMiKSxuKCIuaGVhZGVyLWNvbnRhaW5lci1pbm5lciAuY29tcG9uZW50LmNvbHVtbi1zcGxp
+dHRlciAuY29sLXhzLTEwIikucmVtb3ZlQ2xhc3MoImNvbC14cy0xMCIpLmFkZENsYXNzKCJjb2wt
+eHMtOSIpLG4oIi5wcmltYXJ5LW5hdi1jb250YWluZXIgLmNvbXBvbmVudC5jb250YWluZXIiKS5h
+ZGRDbGFzcygibWVnYWRyb3AiKSxuKCIucHJpbWFyeS1uYXYtY29udGFpbmVyIC5jb21wb25lbnQu
+bmF2aWdhdGlvbi5uYXZpZ2F0aW9uLXRpdGxlIikuYWRkQ2xhc3MoIm1lZ2Fkcm9wLW5hdiIpLG4o
+Ii5wcmltYXJ5LW5hdi1jb250YWluZXIgLmNvbXBvbmVudC5uYXZpZ2F0aW9uLm5hdmlnYXRpb24t
+dGl0bGUiKS5yZW1vdmVDbGFzcygibmF2aWdhdGlvbi1tYWluIG5hdmlnYXRpb24tbWFpbi1ob3Jp
+em9udGFsIikpfSl9LHR9KGpRdWVyeSxkb2N1bWVudCk7WEEucmVnaXN0ZXIoImhlYWRlciIsWEEu
+Y29tcG9uZW50LmhlYWRlcik=
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 2
+
+js
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 24
+
+application/x-javascript
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 4
+
+1385
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 24
+
+People/32x32/package.png
+----version----
+language: en
+version: 1
+revision: 35f13621-8adb-40c6-a241-ae7e79b58c52
+
+----field----
+field: {3F4B20E9-36E6-4D45-A423-C86567373F82}
+name: Title
+key: title
+content-length: 13
+
+optimized-min
+----field----
+field: {BA8341A1-FF30-47B8-AE6A-F4947E4113F0}
+name: Description
+key: description
+content-length: 37
+
+Experience accelerator optimized file
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190506T101803Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+35f13621-8adb-40c6-a241-ae7e79b58c52
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190506T101804Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: fr-CA
+version: 1
+revision: 5beb54bc-627f-4b7e-8044-ec38ab03ccff
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190506T101803Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5beb54bc-627f-4b7e-8044-ec38ab03ccff
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190506T101803Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: ja-JP
+version: 1
+revision: b9bd7eb7-d0ec-4957-a889-36418d1df3ac
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190506T101803Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b9bd7eb7-d0ec-4957-a889-36418d1df3ac
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190506T101803Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous

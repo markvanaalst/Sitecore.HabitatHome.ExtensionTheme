@@ -11,7 +11,9 @@
     }
         .fixed-header .navigation.navigation-main .rel-level1 {
             float: left;
-            padding: 25px 10px
+            padding: 27px 10px;
+            text-transform: uppercase;
+            font-size: 0.8em;
         }
         .fixed-header .navigation.navigation-main .rel-level1:hover,
         .fixed-header .navigation.navigation-main .rel-level1.active {

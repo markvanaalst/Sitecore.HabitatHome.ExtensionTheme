@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {7BCD6D9C-4B4C-4325-88E5-1EC30354B9E3}
+database: master
+path: /sitecore/system/Settings/Feature/Habitat Sites/Static Top Menu/Static Top Menu Site Setup
+parent: {23731F9D-A13D-4A49-BF66-105DFDDC4941}
+name: Static Top Menu Site Setup
+master: {00000000-0000-0000-0000-000000000000}
+template: {292CCFCD-7790-4692-856B-76014B8038E7}
+templatekey: SiteSetupRoot
+created: 20190506T090554Z
+
+----version----
+language: en
+version: 1
+revision: b7aa4fe6-ba34-4922-914f-bf78eebc615f
+
+----field----
+field: {C202067E-7FAB-4606-AFB4-E76DF2185DDC}
+name: Name
+key: name
+content-length: 15
+
+Static Top Menu
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190506T090554Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b7aa4fe6-ba34-4922-914f-bf78eebc615f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190506T092516Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

@@ -6,7 +6,7 @@ XA.component.header = (function ($) {
         $(window).scroll(function(){
             if ($(window).scrollTop() >= 1) {
                 // Set container to fixed
-                $('#header-navigation').addClass('fixed-header');
+                $('.static-top-nav').addClass('fixed-header');
                 // Change grid settings
                 $('.fixed-header .header-container-inner .component.column-splitter .col-xs-3').removeClass('col-xs-3').addClass('col-xs-2');
                 $('.fixed-header .header-container-inner .component.column-splitter .col-xs-9').removeClass('col-xs-9').addClass('col-xs-10');
@@ -17,7 +17,7 @@ XA.component.header = (function ($) {
             }
             else {
                 // Reset all changes
-                $('#header-navigation').removeClass('fixed-header');
+                $('.static-top-nav').removeClass('fixed-header');
                 $('.header-container-inner .component.column-splitter .col-xs-2').removeClass('col-xs-2').addClass('col-xs-3');
                 $('.header-container-inner .component.column-splitter .col-xs-10').removeClass('col-xs-10').addClass('col-xs-9');
                 $('.primary-nav-container .component.container').addClass('megadrop');
